@@ -4,5 +4,6 @@ add the two input values and gives the result
 where a,b store input value and c stores output value
 to take input we used scanner named as sc
 then we declared our condition
-
+which is addition 
+as a,b are our inputs and c is output
 
