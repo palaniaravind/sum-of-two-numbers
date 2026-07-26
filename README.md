@@ -6,4 +6,5 @@ to take input we used scanner named as sc
 then we declared our condition
 which is addition 
 as a,b are our inputs and c is output
-
+so c=a=b
+then we print our c which is our result
